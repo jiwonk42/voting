@@ -1,0 +1,18 @@
+#over-18, #under-18 {
+  display: none;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
+
+body {
+  background-image: url(../images/flag.jpg);
+}
+
+.radio {
+  color: red;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 30px;
+}
